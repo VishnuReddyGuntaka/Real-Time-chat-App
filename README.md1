@@ -1,0 +1,45 @@
+# 💬 Real-Time Chat App
+
+A modern real-time chat application built with Socket.io and Node.js
+
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+ 
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+ 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+ 
+
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+ 
+
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+
+
+---
+
+## ✨ Features
+
+- 🔐 User Login & Register
+- 💬 Multiple Chat Rooms
+- 🔒 Private Messaging
+- ⚡ Real-Time Communication with Socket.io
+- 📱 Responsive Design
+
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/VishnuReddyGuntaka/Real-Time-chat-App.git
+cd Real-Time-chat-App
+npm install
+node index.js
